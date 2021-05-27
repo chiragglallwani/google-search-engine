@@ -1,6 +1,6 @@
 //api key
 //  https://developers.google.com/custom-search/v1/using_rest
-require('dotenv').config()
+require('dotenv').config();
 const API_KEY = process.env.API_KEY;
 
 //
